@@ -1,0 +1,25 @@
+.create-store{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50px 0;
+    background-color: rgba(168, 101, 75, 0.788);
+}
+.store {
+ 
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+
+}
+
+
+.icon-store {
+    margin-right: 50px;
+    margin-top: 50px;
+    height: 100px;
+    width: auto;
+    color: rgba(185, 151, 87, 0.705);
+}
